@@ -1,0 +1,4 @@
+.gitognore
+[Oo]bj/
+[Bb]in/
+*.userprefs
