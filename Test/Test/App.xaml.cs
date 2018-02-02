@@ -8,6 +8,8 @@ namespace Test
 {
     public partial class App : Application
     {
+
+        //testa
         public App()
         {
             InitializeComponent();
